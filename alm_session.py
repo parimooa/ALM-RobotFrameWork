@@ -304,7 +304,7 @@ class ALMSession(ALMUrls, ALMSessionFactory):
                                {"": "subtype-id", "values": [{"value": "hp.qc.run.MANUAL"}]},
                                {"": "cycle-id", "values": [{"value": str(test_instance_details.test_set)}]},
                                {"": "name", "values": [{"value": run_name}]},
-                               {"": "owner", "values": [{"value": "969316"}]},
+                               {"": "owner", "values": [{"value": "100000"}]},
                                {"": "testcycl-id", "values": [{"value": str(test_inst_id)}]},
                                {"": "status", "values": [{"value": status}]}]}
 
